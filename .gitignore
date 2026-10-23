@@ -1,0 +1,17 @@
+# Python / test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+# Local build products
+dist/
+*.crx
+# OS / editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
