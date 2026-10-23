@@ -7,6 +7,18 @@ A lightweight, **one-click Chrome/Chromium extension** for collapsing expanded *
 > Independent community project. Not affiliated with, endorsed by, or sponsored by OpenAI.
 > ChatGPT, Codex, and OpenAI are names of their respective owners.
 
+## Screenshots
+
+Below are **illustrative UI mockups** showing the intended before-and-after experience. They are not captures of a live ChatGPT session or proof of compatibility with every ChatGPT interface.
+
+| Before — expanded analysis output | After — one-click collapse |
+|:---:|:---:|
+| ![Expanded Analyzed section showing Python and STDOUT](screenshots/before-collapse.jpg) | ![Collapsed Analyzed headings and a confirmation toast](screenshots/after-collapse.jpg) |
+
+**Clean conversation view**
+
+![A conversation showing multiple collapsed Analyzed sections](screenshots/clean-conversation.jpg)
+
 ## Features
 
 - **Collapse only:** clicking the toolbar action never intentionally expands a closed section.
